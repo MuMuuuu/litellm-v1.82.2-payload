@@ -1,4 +1,4 @@
-Backup LiteLLM v.1.82.2 compromised payloads
+Backup LiteLLM v.1.82.8 compromised payloads
 
 Refer issue : [LiteLLM Issue #24518](https://github.com/BerriAI/litellm/issues/24518)
 
